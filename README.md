@@ -1,4 +1,4 @@
 SemVer
 ======
 
-A command line utility for managing [SemVer](http://semver.org) semantic version strings.
+A command line utility for manipulating [SemVer](http://semver.org) semantic version strings.
